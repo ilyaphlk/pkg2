@@ -2,11 +2,11 @@ import os
 import setuptools
 
 def setup_package():
-  long_description = "pkg1"
+  long_description = "pkg2"
   setuptools.setup(
-      name='pkg1',
+      name='pkg2',
       version='0.0.1',
-      description='pkg1',
+      description='pkg2',
       long_description=long_description,
       long_description_content_type='text/markdown',
       author='phlk',
